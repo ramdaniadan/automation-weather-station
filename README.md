@@ -106,11 +106,19 @@ git clone https://github.com/ramdaniadan/automation-weather-station.git
 
 Ensure Pentaho Data Integration is installed. Place `.kjb` and `.ktr` files in the appropriate directories.
 
-### **3. Configure Files**
+### **3. Configure Database and Email SMTP**
+
+- **Database Setup**:  
+  Before running the jobs, make sure that your **SQL Server** database is properly set up to store the collected data. Update the connection details in the Pentaho jobs (`.kjb`) and transformations (`.ktr`) to point to your database.
+
+- **Email SMTP Configuration**:  
+  Update the email configuration in the `email-list.xlsx` file and ensure that your SMTP settings are correct for sending reports. You may need to specify SMTP server address, port, username, password, and sender/recipient details in the corresponding transformation or job files.
+
+### **4. Configure Files**
 
 Update configuration files (e.g., `email-list.xlsx`) to match your system requirements.
 
-### **4. Run the Jobs**
+### **5. Run the Jobs**
 
 Run the jobs in sequence or set up a scheduler for automation.
 
@@ -156,4 +164,3 @@ For any issues or inquiries, please contact:
 ---
 
 Thank you for visiting this repository! 🌟 If you find it useful, please give it a star and share it with others. 🙌
-
