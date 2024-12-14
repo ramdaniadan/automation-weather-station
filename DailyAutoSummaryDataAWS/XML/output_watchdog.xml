@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Rows>
+<Row><WSCode>WDG_253_01</WSCode> <Remarks>Kebun Mandau Utara</Remarks> <LastModified/> <RunningOn/> <Temp/> <DewPoint/> <Humidity/> <Rain/> <WindSpeed/> <WindGust/> <WindDirection/> <Solar/></Row>
+<Row><WSCode>WDG_501_01</WSCode> <Remarks>Kebun SWP Utara</Remarks> <LastModified>31 May 2023 [WS_202301.txt], 31 May 2023 [WS_202302.txt]</LastModified> <RunningOn>31 May 2023 15:59</RunningOn> <Temp>48</Temp> <DewPoint>48</DewPoint> <Humidity>48</Humidity> <Rain>48</Rain> <WindSpeed>48</WindSpeed> <WindGust>48</WindGust> <WindDirection>48</WindDirection> <Solar>48</Solar></Row>
+<Row><WSCode>WDG_507_01</WSCode> <Remarks>Kebun Agro Makmur Abadi - Air Seruk</Remarks> <LastModified/> <RunningOn/> <Temp/> <DewPoint/> <Humidity/> <Rain/> <WindSpeed/> <WindGust/> <WindDirection/> <Solar/></Row>
+</Rows>
