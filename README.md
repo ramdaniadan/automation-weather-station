@@ -50,7 +50,7 @@ This repository contains an automated ETL pipeline for managing weather station 
 ## 📂 **Directory Structure**
 
 ```plaintext
-Main Directory
+📂 automation-weather-station
 |   README.md
 |
 +---AWSAutoReportToOC
